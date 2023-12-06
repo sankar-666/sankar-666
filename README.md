@@ -71,6 +71,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sankar-666/sankar-666/output/snake.svg" alt="Snake animation" />
 
 ###
