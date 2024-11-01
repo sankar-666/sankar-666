@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is Sankar, and I'm a self-taught software developer with more than 1 year of professional experience. Currently, I am pursuing a master's degree in Artificial Intelligence, doing my masters from a top university in London, to further deepen my knowledge and skills in this dynamic field.</h4>
+<h4 align="left">Hi 👋! My name is Sankar, and I'm a self-taught software developer with more than 2 year of professional experience. Currently, I am pursuing a master's degree in Artificial Intelligence, doing my masters from a top university in London, to further deepen my knowledge and skills in this dynamic field.</h4>
 
 ###
 
