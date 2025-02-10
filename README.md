@@ -1,6 +1,8 @@
 <h4 align="left">Hi 👋! I'm Sankar, a software engineer with over two years of professional experience. Currently, I'm pursuing a master's in Artificial Intelligence in London.</h4>
 
 ###
+<h6>💡 Feel free to DM me for access to private repositories, advanced Deep Learning, and NLP projects! 🚀</h6>
+###
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=sankar-666&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
