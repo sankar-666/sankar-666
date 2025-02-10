@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! I'm Sankar, a software developer with over two years of professional experience. Currently, I'm pursuing a master's in Artificial Intelligence at a top university in London to deepen my expertise in the field.</h4>
+<h4 align="left">Hi 👋! I'm Sankar, a software engineer with over two years of professional experience. Currently, I'm pursuing a master's in Artificial Intelligence in London.</h4>
 
 ###
 
