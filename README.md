@@ -10,7 +10,7 @@ I have over three years of professional experience and am pursuing a master's in
 ###
 <h6>💡 Feel free to DM me for access to private repositories, advanced Deep Learning, and NLP projects! 🚀</h6>
 
-<div class="d-block">
+<div class="d-block" width=99.8%>
   <a href="https://github.com/s4nkar/github-readme-streak-stats" title="Github Readme Streak Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=s4nkar&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&rank_icon=github" alt="s4nkar" width=48.7% /></a>
   <a href="https://github.com/s4nkar/github-readme-streak-stats" title="Github Readme Streak Stats"><img src="https://fabianocouto-readme-streak-stats.vercel.app/?user=s4nkar&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=539bf5&currStreakLabel=539bf5&fire=539bf5%27%20-o%20streak-stats.svg" alt="s4nkar" width=48.7% /></a>
 </div>
