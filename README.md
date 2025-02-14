@@ -1,5 +1,5 @@
 [![Views](https://komarev.com/ghpvc/?username=s4nkar&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
-[![wakatime](https://wakatime.com/badge/user/e10e1993-7b76-418e-9b12-a01c184ddcca.svg)](https://wakatime.com/@e10e1993-7b76-418e-9b12-a01c184ddcca)
+[![wakatime](https://wakatime.com/badge/user/db21b6e2-184a-400b-9d08-d8bd019efba2.svg)](https://wakatime.com/@db21b6e2-184a-400b-9d08-d8bd019efba2)
 
 ## Hey, I'm Sankar!
 
@@ -10,11 +10,13 @@ I have over three years of professional experience and am pursuing a master's in
 ###
 <h6>💡 Feel free to DM me for access to private repositories, advanced Deep Learning, and NLP projects! 🚀</h6>
 
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=s4nkar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4nkar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div class="d-block">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">[<img src="https://raw.githubusercontent.com/fabianocouto/fabianocouto/main/assets/stats.svg" alt="fabianocouto" width=48.7% align=left />](https://fabianocouto-readme-stats.vercel.app/api?username=s4nkar&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&rank_icon=github%27%20-o%20stats.svg)</a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Github Readme Streak Stats"><img src="https://raw.githubusercontent.com/fabianocouto/fabianocouto/main/assets/streak-stats.svg" alt="fabianocouto" width=48.7% /></a>
 </div>
+<br>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://raw.githubusercontent.com/fabianocouto/fabianocouto/main/assets/activity-graph.svg" alt="fabianocouto" width=99.8% /></a>
+
 
 ###
 
