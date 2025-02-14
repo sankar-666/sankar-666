@@ -11,7 +11,7 @@ I have over three years of professional experience and am pursuing a master's in
 <h6>💡 Feel free to DM me for access to private repositories, advanced Deep Learning, and NLP projects! 🚀</h6>
 
 <div class="d-block">
-  [<a href="https://github.com/s4nkar/github-readme-stats" title="GitHub Readme Stats"></a>](https://fabianocouto-readme-stats.vercel.app/api?username=s4nkar&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&rank_icon=github%27%20-o%20stats.svg)
+  ![GitHub Stats](https://fabianocouto-readme-stats.vercel.app/api?username=s4nkar&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&rank_icon=github%27%20-o%20stats.svg)
   <a href="https://github.com/s4nkar/github-readme-streak-stats" title="Github Readme Streak Stats"><img src="https://raw.githubusercontent.com/fabianocouto/fabianocouto/main/assets/streak-stats.svg" alt="fabianocouto" width=48.7% /></a>
 </div>
 <br>
