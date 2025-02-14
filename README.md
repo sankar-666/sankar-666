@@ -1,3 +1,6 @@
+[![Views](https://komarev.com/ghpvc/?username=s4nkar&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
+[![wakatime](https://wakatime.com/badge/user/e10e1993-7b76-418e-9b12-a01c184ddcca.svg)](https://wakatime.com/@e10e1993-7b76-418e-9b12-a01c184ddcca)
+
 <h4 align="left">Hi 👋! I'm Sankar, a software engineer with over two years of professional experience. Currently, I'm pursuing a master's in Artificial Intelligence in London.</h4>
 
 ###
