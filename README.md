@@ -16,7 +16,7 @@ I have over three years of professional experience and am pursuing a master's in
 </div>
 <be>
 <div width="98%" style="width:98%">
-<a href="https://github.com/s4nkar" title="Github Readme Activity Stats"><img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=s4nkar&theme=github-dark-dimmed&radius=6&area=true%27%20-o%20activity-graph.svg" alt="s4nkar" width=99.8% /></a>
+<a href="https://github.com/s4nkar" title="Github Readme Activity Stats"><img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=s4nkar&theme=github-dark-dimmed&radius=6&area=true%27%20-o%20activity-graph.svg" alt="s4nkar" width=98% /></a>
 </div>
 
 ###
