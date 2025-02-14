@@ -13,7 +13,7 @@ I have over three years of professional experience and am pursuing a master's in
 <div class="d-block">
   
   <a href="https://github.com/s4nkar/github-readme-streak-stats" title="Github Readme Streak Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=s4nkar&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&rank_icon=github" alt="fabianocouto" width=48.7% /></a>
-  <a href="https://github.com/s4nkar/github-readme-streak-stats" title="Github Readme Streak Stats"><img src="https://raw.githubusercontent.com/fabianocouto/fabianocouto/main/assets/streak-stats.svg" alt="fabianocouto" width=48.7% /></a>
+  <a href="https://github.com/s4nkar/github-readme-streak-stats" title="Github Readme Streak Stats"><img src="https://fabianocouto-readme-streak-stats.vercel.app/?user=s4nkar&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=539bf5&currStreakLabel=539bf5&fire=539bf5%27%20-o%20streak-stats.svg" alt="fabianocouto" width=48.7% /></a>
 </div>
 <br>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://raw.githubusercontent.com/fabianocouto/fabianocouto/main/assets/activity-graph.svg" alt="fabianocouto" width=99.8% /></a>
