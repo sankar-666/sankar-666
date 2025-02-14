@@ -3,9 +3,9 @@
 
 ## Hey, I'm Sankar!
 
-I'm a software engineer with over three years of professional experience. Currently, I'm pursuing a master's in Artificial Intelligence in London.
+I'm a software engineer from Kerala, India.
 
-I value simplicity in solutions, clean and efficient code, and responsive and perfectly balanced designs. I take pride in crafting code that feels like a true work of art, where every detail is carefully considered and refined.
+I have over three years of professional experience and am pursuing a master's in Artificial Intelligence in London. I value simplicity in solutions, clean and efficient code, and responsive and perfectly balanced designs. I take pride in crafting code that feels like a true work of art, where every detail is carefully considered and refined.
 
 ###
 <h6>💡 Feel free to DM me for access to private repositories, advanced Deep Learning, and NLP projects! 🚀</h6>
