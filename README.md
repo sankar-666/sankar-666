@@ -8,7 +8,7 @@ I'm a software engineer from Kerala, India.
 I have over three years of professional experience and am pursuing a master's in Artificial Intelligence in London. I value simplicity in solutions, clean and efficient code, and responsive and perfectly balanced designs. I take pride in crafting code that feels like a true work of art, where every detail is carefully considered and refined.
 
 ###
-<h6>💡 Feel free to DM me for access to private repositories, advanced Deep Learning, and NLP projects! 🚀 [mailto:s4nkar.connect@gmail.com](mailto:s4nkar.connect@gmail.com) (Email)</h6>
+<h6>💡 Feel free to DM me for access to private repositories, advanced Deep Learning, and NLP projects! 🚀</h6>
 
 <div class="d-block" width=99.8%>
   <a href="https://github.com/s4nkar" title="Github Readme Streak Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=s4nkar&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&rank_icon=github" alt="s4nkar" width=48.7% /></a>
